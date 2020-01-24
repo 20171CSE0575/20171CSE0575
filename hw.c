@@ -4,5 +4,6 @@
 void main()
 {
   printf("Hello World!\n");
+  printf("Internet_Technologies lab is pretty cool!\n);
 }
 
