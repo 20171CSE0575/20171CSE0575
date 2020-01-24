@@ -4,6 +4,6 @@
 void main()
 {
   printf("Hello World!\n");
-  printf("Internet_Technologies lab is pretty cool!\n);
+  printf("GITHUB was acquired by Microsoft for 7 Billion Dollars!\n");
 }
 
