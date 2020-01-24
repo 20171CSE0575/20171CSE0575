@@ -1,4 +1,4 @@
-/The most Basic Program in any Programming language/
+// most Basic Program in any Programming language//
 
 #include<stdio.h>
 void main()
